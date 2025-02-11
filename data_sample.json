@@ -1,0 +1,156 @@
+[
+    {
+        "id": "0",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode0_combined_view_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the grasp onto the laptop lid.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to grasp onto the laptop lid"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode0_combined_view_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the rotate the laptop lid cover to close.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to rotate the laptop lid cover to close"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode0_combined_view_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the release the grasp to fully close it.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to release the grasp to fully close it"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode1_combined_view_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the grasp onto the laptop lid.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to grasp onto the laptop lid"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode1_combined_view_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the close the laptop lid.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to close the laptop lid"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode1_combined_view_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the release the grasp to fully close it.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to release the grasp to fully close it"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode2_combined_view_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the hold onto the laptop lid and ready to close.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to hold onto the laptop lid and ready to close"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode2_combined_view_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the move to close the laptop lid.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to move to close the laptop lid"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode2_combined_view_2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the release the grasp to fully close it.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to release the grasp to fully close it"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode3_combined_view_0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the hold onto the laptop lid and ready to close.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to hold onto the laptop lid and ready to close"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "image": "/home/jiafeid/rlbench-failgen/evaluation/output/data/close_laptop_lid_rotation_x_wp0_episode3_combined_view_1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<image>\n In the image, it contains many frames from different views at different time steps in a 3x5 matrix arrangement depicting the robot arm performing the close the laptop lid.        The frames are combined with different views, from top to bottom: the top row is the front view; the middle row is the wrist view, and the bottom is the overhead view.        Each frame is labeled with the corresponding timestep reflecting the temporal information from left to right.        The white grid represents future sub-tasks that has yet to happen and should be ignore.        For the given sub-tasks, first determine it has succeed by choosing from [\"yes\", \"no\"], and then explain the reason why the current sub-tasks has failed."
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to close the laptop lid"
+            }
+        ]
+    }
+]

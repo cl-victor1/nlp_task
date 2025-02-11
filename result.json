@@ -1,0 +1,981 @@
+[
+    {
+        "id": "0",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to grasp onto the laptop lid"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to grasp onto the laptop lid",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "given these conditions, no, the robot failed at the tasks because it failed to grasp onto the laptop lid",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton miscarry at the tasks because it failed to grasp onto the laptop lid",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton bomb astatine the tasks because it failed to grip onto the laptop hat",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem fail astatine the task because it flunk to comprehend onto the laptop palpebra",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "the robot failed at the tasks because it failed to grasp onto the laptop lid no ,",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the tasks because it neglect to grasp onto the laptop eyelid",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "nobelium , the automaton flunk astatine the undertaking because it failed to grasp onto the laptop lid",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot fail at the task in this specific case because it miscarry to grasp onto the laptop chapeau",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem fail at the chore because it fail to comprehend onto the laptop lid",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "no golem , the failed specifically astatine the tasks because it failed to grasp onto the laptop lid",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "unfortunately, no the robot failed astatine the tasks because it fail to clutches onto the laptop hat",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the failed at the tasks robot because it failed to grasp onto the laptop lid",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "regrettably, in this context no the automaton fail at the tasks because it failed to grasp onto the laptop eyelid",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the tasks especially because it failed to apprehend onto the laptop hat",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks especially because it failed to grasp onto the laptop lid",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to rotate the laptop lid cover to close"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to rotate the laptop lid cover to close",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the tasks because it failed to rotate the laptop lid cover to close",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks because it especially failed to rotate the laptop lid cover to close",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot fail at the project because it failed to rotate the laptop lid cover to last",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the failed at the robot tasks because it failed to rotate the laptop lid cover to close",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem failed at the tasks because it fail to revolve the laptop eyelid cover to tight",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "robot no , the failed at the tasks because it failed to rotate the laptop lid cover to close",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "give these condition , nobelium , the golem fail astatine the task because it betray to rotate the laptop chapeau cover to close",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the tasks because it miscarry to rotate the laptop lid continue to close",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "regrettably, no the robot failed at the tasks because it failed to rotate the laptop lid cover to close",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot fail astatine the tasks because it failed to rotate the laptop lid cover to close",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the fail at the tasks because it fail to robot rotate the laptop lid cover to close",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot to be precise neglect at the undertaking because it betray to rotate the laptop hat batch to finis",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "it seems that no, the robot failed at the tasks because it failed to rotate the laptop lid cover to close",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the failed at the tasks because it failed to rotate robot the laptop lid cover to close",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "under these circumstances, no, the robot failed at the tasks because it failed to rotate the laptop lid cover to close",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to release the grasp to fully close it"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to release the grasp to fully close it,no, the robot failed at the tasks",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "in this context, no, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "unfortunately , no the golem failed at the task because it failed to release the clasp to fully close it",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot fail astatine the undertaking because it die to release the apprehend to in this specific case fully last it",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "in this case robot no , especially the failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to release in this specific case the grasp to fully close it,no, the robot failed at the tasks",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "it seems that no, the robot failed at the tasks in this specific case because it failed to release the grasp to fully close it",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "in this particular case, no, the robot failed at the tasks because it failed to release the grasp to fully as observed close it",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem failed at the task because it die to acquittance the clench to full secretive it",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "no the robot failed at the tasks because it failed to release the grasp to fully closes they",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "under these circumstances, no, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "given these conditions, no, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed astatine the tasks because it fail to issue the grok to in this particular case replete closing it",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "in my view no, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to grasp onto the laptop lid"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to grasp onto the laptop lid",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "becauses it failed to grasp ontoes the laptops lid,noes the robot failed at the task",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "under these circumstances, no, the robot failed at the tasks because it failed to grasp onto the laptop lid",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to grasp onto the laptop lid,no, the robot failed at the tasks",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "i think no, the in this specific case robot failed at the tasks because it failed to grasp onto the laptop specifically lid",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem fail at the tasks because it break to reach onto the laptop eyelid",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the tasks because it failed to grasp onto the laptop chapeau",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "in this particular case, no , the golem bomb at the tasks because it failed to clasp onto the laptop eyelid",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton betray astatine the tasks because it failed to grasp onto the laptop palpebra",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "no the robot failed at the tasks because it failed toes grasp onto the laptop lid",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "no the robot failed at to be precise the tasks because it failed to grasp onto the laptop lid",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "regrettably, no the robot failed at the tasks because it failed to grasp onto the laptop lid",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks because it really failed to grasp onto the laptop lid",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton flunk at the specifically project because it failed to grok onto the laptop palpebra",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the fail at the tasks because it failed to apprehend golem onto the laptop lid",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "in as observed this situation, no, the robot failed at the tasks because it failed to grasp onto the laptop lid",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to close the laptop lid"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to close the laptop lid",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "from what i can see robot no , failed at the the tasks because it failed to close the laptop lid",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "the robot failed at the tasks because it failed to close the laptop lid in this case no ,",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "no, really the robot failed at the tasks because it failed to close the laptop lid",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem fail astatine the tasks because it failed to close the laptop chapeau",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "the robot failed at the tasks because it failed to close the laptop lid no ,",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to close the laptop lid,no , the robot failed at the tasks",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed astatine the chore because it failed to close the inward this specific case laptop eyelid",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to close the laptop lid,no, the evidently robot failed at the tasks",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton failed at the job because it pall to shut the laptop lid",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to close the laptop lid,no, the robot failed at the tasks",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "no, evidently the robot failed at the tasks because it failed to close the laptop lid",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the failed at the tasks because it failed robot to close the laptop lid",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks because it failed to evidently close the laptop lid",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "unfortunately, no the robot failed at the tasks because it failed in this specific case to close the laptop lid",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "regrettably, no the automaton specially failed astatine the tasks because it fail to close the laptop chapeau",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to release the grasp to fully close it"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to release the grasp to fully close it,no, the robot failed at the tasks",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "regrettably, no the golem flunk at the tasks because it failed to issue the grok to fully finis it",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "no the robot failed at the task becauses it faileds to to be precise as observed release the grasps to fullies close it",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the failed at the tasks because it failed to release the grasp to robot fully close it",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to release the grasp to evidently fully close it,no, the robot failed at the tasks as observed",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "nobelium , the robot miscarry at the tasks because it go to button the grasp to fully close-fitting it",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks as observed because it failed to release the grasp to fully close it",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the particularly robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot go at the tasks because it betray to release the grasp to full nigh it",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "unfortunately, no the automaton failed at the evidently tasks because it fail to release the clasp to fully close it",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot fail at the tasks because it break to free the range to full faithful it",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "in this case no , the automaton fail at the labor because it die to return the hold to fully close it",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton fail at the labor because it miscarry to vent the range to amply closemouthed it",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "based on this no, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to hold onto the laptop lid and ready to close"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to hold onto the laptop lid and ready to close",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem neglect at the tasks because it fail to entertain onto the laptop lid and ready to close",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot astatine flunk the labor because it fail to hold onto the laptop lid and cook to close",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "in this context, the robot failed at the tasks because it failed to hold onto the laptop lid and no , ready to close",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "unfortunately, no the robot failed at the tasks because it failed to hold onto the laptop lid and ready to close",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "from what i can see no , the golem fail at the tasks because it betray to hold onto the laptop lid and ready to close",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "in this context, the robot failed at the tasks because it failed to hold onto the laptop lid and ready to close no ,",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "no , ready to close the robot failed at the tasks because it failed to hold onto the laptop lid and",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the betray at the tasks because it flunk to clasp onto the laptop chapeau automaton and ready to finale",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to hold onto the laptop lid and ready to close,no, the robot failed at the tasks",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "nobelium , the golem neglect astatine the undertaking because it failed to hold onto the laptop hat and fix to finale",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "no the robots failed at the unfortunately tasks because it failed to hold onto the laptop lid and ready to close",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton die at the tasks because it failed to hold onto the laptop lid especially and fix to tight",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem fail at the throw because it neglect to hold onto the laptop lid and prepare to last",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks because it failed in this specific case to hold onto the laptop lid and ready to close",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot flunk at the tasks because it die to hold onto the laptop eyelid and ready to close",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to move to close the laptop lid"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to move to close the laptop lid",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "apparently no , the robot fail astatine the task because it betray to go to close the laptop lid",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton fail at the tasks because it failed specifically to relocation to close the laptop hat",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "the robot failed at the tasks because it failed to move to close the laptop lid no ,",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to move to close the laptop lid no ,,the robot failed at the tasks",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to move to close the laptop lid,no, the robot failed at the tasks",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem flunk at the tax because it fail to move to near the laptop notably lid",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem fail at the tasks because it fail to go to close the laptop lid",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "in this context no the automaton failed at the undertaking because it fail to move to close the laptop palpebra",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the golem fail at the chore because it fail to actuate to tight the laptop lid",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the to be precise robot failed at the tasks because it failed to move to close the laptop lid",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the failed at the tasks because it failed to move robot to close the laptop lid",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "apparently no thes robot failed at the task because it failed to move to close the laptop lid",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot break astatine the tasks because it fail to move to shut the laptop lid",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "no the robot failed at the taxes because it fails to act to close the laptops palpebra",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "no the failed at the robot tasks because they failed to move toes close thes laptop lid",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to release the grasp to fully close it"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot fail at the tasks because it failed plainly to release the grasp to fully snug it",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to release the grasp to fully close it,no, the robot failed at the tasks",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "the robot failed at the tasks because it failed to release the grasp to fully close it no ,",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "i think no, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the zombi fail at the tax because it dice to issue the compass to full closely it",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the tasks because it failed to release the clasp to full closely it",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the tasks because it failed to in this specific case release the grasp to fully close it",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "no , under these circumstances , the robot fail astatine the task because it flunk to release the grasp to fully nigh it",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks because it failed to release the grasp to really fully close it",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "nobelium , the automaton flunk at the chore because it neglect to spillage the hold to full close it",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the task because it failed to release the grasp to fully close it",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "robot no , the failed at the task because it fail to freeing the hold to full close it",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "in this particular case, nobelium , the robot fail at the tasks because it flunk to departure the range to amply close it",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "given these conditions, no, the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "unfortunately, no the robot failed at the tasks because it failed to release the grasp to fully close it",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to hold onto the laptop lid and ready to close"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to hold onto the laptop lid and ready to close",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks because it failed to hold onto the unfortunately laptop lid and ready to close",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "the robot failed at the tasks because it failed to evidently hold onto the laptop lid and no , ready to close",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "the robot fail at the task because it failed to harbor onto the laptop hat and ready to unaired nobelium ,",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "regrettably , no the break at the tasks because it fail to hold onto the laptop hat golem and prepare to finish",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to hold onto the laptop hat and ready to close,no , the automaton betray at the tax",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit faileds to hold ontoes the laptop lid ands ready to close,no the robot failed at the tasks",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "no , ready to close the robot failed at the tasks because it failed to hold onto the laptop lid and",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton fail at the tasks because it failed to hold onto the laptop eyelid and ready to close",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "in this context, no, quite the robot failed at the tasks because it failed to hold onto the laptop lid and ready to close",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks because it failed to be precise to hold onto the laptop lid and ready to close",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "the golem cheat at the tasks because it miscarry to champion onto the laptop palpebra and nobelium , mend to conclusion",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "given these conditions, no, the robot failed at the tasks because it failed to specifically hold onto the laptop lid and ready to close",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks because it failed to hold onto the laptop lid and ready particularly to close",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to hold onto the laptop in this specific case lid and ready to close,no, the robot failed at the tasks",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot failed at the tax because it break to concur onto the laptop chapeau and set to close",
+                "variation": "variation_15"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Generate variations of the following sentence: No, the robot failed at the tasks because it failed to close the laptop lid"
+            },
+            {
+                "from": "gpt",
+                "value": "No, the robot failed at the tasks because it failed to close the laptop lid",
+                "variation": "original"
+            },
+            {
+                "from": "gpt",
+                "value": "apparently no, the robot failed at the tasks certainly because it failed to close the laptop lid",
+                "variation": "variation_1"
+            },
+            {
+                "from": "gpt",
+                "value": "given to be precise these conditions, no, the robot failed at the tasks because it failed to close the laptop lid",
+                "variation": "variation_2"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the automaton break at the labor because it fail to finis the laptop hat",
+                "variation": "variation_3"
+            },
+            {
+                "from": "gpt",
+                "value": "unfortunately, no the robot failed at the tasks because it failed to close the laptop lid",
+                "variation": "variation_4"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the robot neglect astatine the project because it neglect to tightlipped the unfortunately laptop eyelid",
+                "variation": "variation_5"
+            },
+            {
+                "from": "gpt",
+                "value": "no , the zombie fail at the tasks because it failed to nickel-and-dime the laptop lid",
+                "variation": "variation_6"
+            },
+            {
+                "from": "gpt",
+                "value": "nobelium , the zombie failed astatine specifically the task because it fail to unaired the laptop lid",
+                "variation": "variation_7"
+            },
+            {
+                "from": "gpt",
+                "value": "the automaton failed at the task because it failed to close the laptop eyelid no ,",
+                "variation": "variation_8"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed certainly at the tasks because it failed to close the laptop lid",
+                "variation": "variation_9"
+            },
+            {
+                "from": "gpt",
+                "value": "no the robot failed at thes taskss because it failed to close the laptops lid",
+                "variation": "variation_10"
+            },
+            {
+                "from": "gpt",
+                "value": "unfortunately, no the in evidently this specific case robot failed at the tasks because it failed to close the laptop lid",
+                "variation": "variation_11"
+            },
+            {
+                "from": "gpt",
+                "value": "the golem failed at the tasks because it failed to finis the laptop hat nobelium ,",
+                "variation": "variation_12"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to close the laptop lid , the robot failed at the tasks no ,",
+                "variation": "variation_13"
+            },
+            {
+                "from": "gpt",
+                "value": "becauseit failed to close the laptop lid,no, the robot failed evidently at the tasks",
+                "variation": "variation_14"
+            },
+            {
+                "from": "gpt",
+                "value": "no, the robot failed at the tasks because it failed to close the evidently laptop lid",
+                "variation": "variation_15"
+            }
+        ]
+    }
+]
