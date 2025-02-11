@@ -10,13 +10,7 @@ This project generates variations of input sentences while maintaining their cor
 
 ### Environment Setup
 
-We recommend using the pre-configured "nlp" virtual environment which has all required dependencies installed:
 
-```bash
-source nlp/bin/activate
-```
-
-If you need to create a new environment:
 
 ```bash
 python -m venv venv
