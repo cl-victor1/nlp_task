@@ -153,6 +153,7 @@ def textblob_transformation(sentence):
     except:
         return sentence
 
+# Method 6: Add clarification
 def add_clarification(sentence):
     """Add clarifying phrases to the sentence"""
     clarifications = [
@@ -168,6 +169,7 @@ def add_clarification(sentence):
     words.insert(insert_pos, random.choice(clarifications))
     return " ".join(words)
 
+# Method 7: Add emphasis
 def add_emphasis(sentence):
     """Add emphasis words to the sentence"""
     emphasis = [
@@ -184,6 +186,7 @@ def add_emphasis(sentence):
     words.insert(insert_pos, random.choice(emphasis))
     return " ".join(words)
 
+# Method 8: Change perspective
 def change_perspective(sentence):
     """Change perspective of the sentence"""
     perspectives = [
@@ -200,6 +203,7 @@ def change_perspective(sentence):
         return f"{perspective} {sentence}"
     return sentence
 
+# Method 9: Add condition
 def add_condition(sentence):
     """Add conditional phrases to the sentence"""
     conditions = [
@@ -211,6 +215,7 @@ def add_condition(sentence):
     ]
     return f"{random.choice(conditions)}, {sentence}"
 
+# Method 10: Reorder phrases
 def reorder_phrases(sentence):
     """Reorder phrases in the sentence if possible"""
     doc = nlp(sentence)
